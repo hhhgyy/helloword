@@ -21,7 +21,7 @@
         android:layout_alignLeft="@+id/txt"
         android:layout_below="@+id/txt"
         android:layout_marginTop="44dp"
-        android:text="Large Text"
+        android:text="U1"
         android:textAppearance="?android:attr/textAppearanceLarge" />
 
 </RelativeLayout>
